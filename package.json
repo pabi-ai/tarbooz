@@ -3,6 +3,10 @@
   "displayName": "Tarbooz Theme",
   "description": "Clean & Incisive Code theme with sematic highlighting",
   "version": "0.1.0",
+  "private":"true",
+  "license":"MIT",
+  "icon": "images/tarbooz.png",
+  "repository": {"type":"github" , "url": "https://github.com/pabi-ai/tarbooz"},
   "engines": {
     "vscode": "^1.93.0"
   },

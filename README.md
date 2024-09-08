@@ -1,16 +1,18 @@
 # tarbooz-theme README
 
-## Working with Markdown
+Clean & Incisive VS Code theme with sematic highlighting.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+The semantic highlightig is tested for dart/flutter.
+To intall the theme, search for Tarbooz in Extensions and click Install button.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Font recommended is Iosevka to work well with theme. Adjust line spacing to your taste.
+A modified version of Iosevka font 'Sevakandale' is used to show examples. Get this font from github repository > folder font.
 
-## For more information
+In VS Cose settings, after installing the font, set font as
+"editor.fontFamily": "Sevkandale, Iosevka"
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Github: https://github.com/pabi-ai/tarbooz
 
-**Enjoy!**
+This theme is inspired from Bearded Themes but heavily modified 
+1. To adjust relative contrasts of colors 
+2. Introduce new colors to work well with oop-language grammers
