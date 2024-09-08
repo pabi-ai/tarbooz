@@ -19,7 +19,7 @@
       {
         "label": "Tarbooz Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tarbooz-color-theme.json"
+        "path": "./themes/Tarbooz-dark-color-theme.json"
       }
     ]
   }
