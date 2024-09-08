@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "private":"true",
   "license":"MIT",
+  "publisher": "pabi",
   "icon": "images/tarbooz.png",
   "repository": {"type":"github" , "url": "https://github.com/pabi-ai/tarbooz"},
   "engines": {
