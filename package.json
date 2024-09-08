@@ -1,0 +1,21 @@
+{
+  "name": "tarbooz-theme",
+  "displayName": "Tarbooz Theme",
+  "description": "Clean & Incisive Code theme with sematic highlighting",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tarbooz Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tarbooz-color-theme.json"
+      }
+    ]
+  }
+}
