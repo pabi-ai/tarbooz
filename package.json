@@ -2,7 +2,7 @@
   "name": "tarbooz-theme",
   "displayName": "Tarbooz Theme",
   "description": "Clean & Incisive Code theme with sematic highlighting",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "private": "true",
   "license": "MIT",
   "publisher": "pabi",
@@ -23,6 +23,10 @@
         "label": "Tarbooz Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Tarbooz-dark-color-theme.json"
+      },{
+        "label": "Tarbooz Underripe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tarbooz-underripe-color-theme.json"
       }
     ]
   }
