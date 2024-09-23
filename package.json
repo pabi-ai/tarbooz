@@ -2,7 +2,7 @@
   "name": "tarbooz-theme",
   "displayName": "Tarbooz Theme",
   "description": "Clean & Incisive Code theme with sematic highlighting",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": "true",
   "license": "MIT",
   "publisher": "pabi",
