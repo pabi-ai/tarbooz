@@ -426,7 +426,7 @@
 				"meta.scriptblock.powershell meta.group.simple.subexpression.powershell meta.group.simple.subexpression.powershell meta.scriptblock.powershell meta.scriptblock.powershell support.variable.automatic.powershell"
 			],
 			"settings": {
-				"foreground": "#EEA67F"
+				"foreground": "#f76060"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#77B03E"
+				"foreground": "#7CDBC7"
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#D995C9"
+				"foreground": "#fbb599"
 			}
 		},
 		{
@@ -600,7 +600,7 @@
 				"keyword.cmake"
 			],
 			"settings": {
-				"foreground": "#DBC2A3"
+				"foreground": "#d55bbb"
 			}
 		},
 		{
@@ -757,6 +757,15 @@
 			}
 		},
 		{
+			"scope":[
+				"constant.character.escape",
+				"string.interpolated"
+					],
+			"settings": {
+				"foreground": "#b8b88f",
+			}
+		},
+		{
 			"scope": [
 				"string",
 				"string.template",
@@ -785,7 +794,7 @@
 				"string.quoted.single.python punctuation.definition.string.end.python"
 			],
 			"settings": {
-				"foreground": "#69D2AB"
+				"foreground": "#5dd999"
 			}
 		},
 		{
@@ -803,7 +812,6 @@
 		},
 		{
 			"scope": [
-				"entity.name.type",
 				"support.type",
 				"support.class",
 				"storage.type",
@@ -833,7 +841,7 @@
 				"meta.group.simple.subexpression.powershell meta.scriptblock.powershell storage.type.powershell"
 			],
 			"settings": {
-				"foreground": "#AD92FF"
+				"foreground": "#aa77ff"
 			}
 		},
 		{
@@ -867,6 +875,14 @@
 			],
 			"settings": {
 				"foreground": "#E38D97"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.type.enum"
+			],
+			"settings": {
+				"foreground": "#e77ebb"
 			}
 		},
 		{
@@ -1196,7 +1212,7 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#EEA67F"
+				"foreground": "#FAFA9D"
 			}
 		},
 		{

@@ -1,5 +1,4 @@
 {
-	"$schema": "vscode://schemas/color-theme",
 	"name": "Tarbooz Underripe",
 	"type": "dark",
 	"semanticHighlighting": true,
